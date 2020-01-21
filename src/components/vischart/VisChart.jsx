@@ -1,4 +1,4 @@
-import React, { useContext, useState, useEffect } from 'react'
+import React, { useContext, useEffect } from 'react'
 import '../../../node_modules/react-vis/dist/style.css'
 import { XYPlot, VerticalGridLines, HorizontalGridLines, XAxis, YAxis, LineMarkSeries } from 'react-vis'
 import { SeriesContext } from '../../context/SeriesContext'
